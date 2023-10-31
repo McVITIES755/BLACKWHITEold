@@ -128,7 +128,7 @@ let allMusic = [
       name: "See You Again",
       artist: "Wiz Khalifa and Charlie Puth",
       img: "images/See-You-Again.jpg",
-      src: "See-You-Again"
+      src: "See-You-again"
     },
     {
       name: "Shock - Attack On Titan",
